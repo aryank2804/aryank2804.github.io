@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ar28.github.io/sitemap.xml
