@@ -25,6 +25,6 @@ latest_posts:
 
 Hi! I'm a 3rd year undergraduate studying Electrical and Electronics Engineering at BITS Pilani. I’m broadly interested in deep learning, and much of my work sits at the intersection of multimodal models, generative modeling, and understanding how these systems learn and generalize.
 
-I currently work with researchers at **NTNU**, **NUS**, **the University of Edinburgh**, and **Manifold Research Group**. At **NTNU**, my work involves constrained face generation with diffusion models and VLM-based methods for security and presentation-attack detection, including a two-stage diffusion pipeline now under review. At **NUS**, I worked on 3D visual grounding and training-free interpretability techniques. At **the University of Edinburgh**, I focus on neurosymbolic AI, LLM alignment, and controllability through interpretability tools. And with **Manifold**, I contribute to the MultiNet project, benchmarking and analyzing large VLMs and VLA models.
+I currently work with researchers at NTNU, NUS, the University of Edinburgh, and Manifold Research Group. At NTNU my work involves constrained face generation with diffusion models and VLM-based methods for security and presentation-attack detection. At NUS, I work on 3D visual grounding and training-free interpretability techniques. At the University of Edinburgh, I focus on neurosymbolic AI, LLM alignment, and controllability through interpretability tools. And with Manifold, I contribute to the MultiNet project, benchmarking and analyzing large VLMs and VLA models.
 
-If any of this overlaps with your interests — or you’d like to discuss ideas — feel free to reach out.
+If any of this overlaps with your interests, or you’d like to discuss ideas, feel free to reach out!
